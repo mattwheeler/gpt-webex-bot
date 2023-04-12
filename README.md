@@ -32,7 +32,7 @@
 
  5. Run the Flask app:
     ```
-    python app.py
+    python webex_wiz_bot.py
     ```
  ## Deploy the Flask App
  You can deploy the Flask application to a web server like Heroku or use a tool like ngrok to expose your local server to the internet.
