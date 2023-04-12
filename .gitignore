@@ -23,3 +23,17 @@ instance/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# IDE and editor files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.sln
+*.user
+*.swp
+*.bak
+*.orig
+*.tmp
+*.temp
+*.rej
