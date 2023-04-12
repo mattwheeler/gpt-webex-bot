@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 
 # Environment files
-.env
+*.env
 
 # Flask files
 instance/
